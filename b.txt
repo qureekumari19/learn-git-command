@@ -1,6 +1,1 @@
-git :-It is Open source distributed version control system
-github :- It is cloud based server system which manage git repository.
-
-google drive :- it can only store but it doesn't have version control system.
-
-hello user
+git is basic to fetch project from github
