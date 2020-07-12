@@ -1,1 +1,76 @@
-remote use
+basic git command :
+
+1>git clone:-This is used to obtain a repository from an existing URL.
+
+
+2>git config :-This command sets the author name and email address respectively
+   
+   git config --global user.name "[quree]"
+
+
+3>git init :-This command is used to start a new repository
+
+
+
+4>git add :-This command adds files in stagging Area.
+
+
+
+
+5>git commit -m "message"
+
+     This command record the file permanently
+
+
+6>git diff :- to show the file difference which are not yet staged
+
+
+7>git reset --hard <reset file log id>
+
+
+
+
+8>git status:-  this list all the files that have to be committed.
+
+
+9> git show :-  this shows the metadata and content changes on specific commit
+
+
+
+10>git branch :- to List all the local branches in current repository
+
+
+11>git checkout :-Used to switch from one branch to other branch.
+
+      git checkout -b <branch-name>
+
+12>git merge :- this merge the specific branch history into the current branch
+
+
+
+13>git remote :-used to connect with local repository to remote server.
+
+
+
+14>git push :- this sends the commit of master branchess to remote repository.
+
+
+15>git pull :- this fetch and merge changes on remote server to working directory
+
+
+
+16>git rebase:-it is another way to integrate changes from one branch to another.it compress changes into a single patch.
+
+
+
+
+17>git revert:- used to undo data which is committed.
+
+
+
+
+18>git cherry-pick :-it enables arbitary git commits picked by reference and append to the current working head.
+
+
+
+19>git describe:-
